@@ -33,7 +33,11 @@ SuperInventory is a web-based inventory management system designed for small to 
 
 | Login Page | Dashboard | Sales |
 |------------|-----------|-------|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Sales](screenshots/sales.png) |
+| <img width="468" height="221" alt="image" src="https://github.com/user-attachments/assets/488cbff0-480c-4dbb-999c-48870cd7b9f8" />
+
+ | <img width="468" height="192" alt="image" src="https://github.com/user-attachments/assets/bd654dcf-c672-4835-994c-1018c10048fb" />
+ | <img width="468" height="220" alt="image" src="https://github.com/user-attachments/assets/45239eb6-f3af-4514-b2ee-e95679f441e7" />
+ |
 
 > _Note: Replace these with your actual screenshot paths._
 
