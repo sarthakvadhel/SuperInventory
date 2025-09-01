@@ -45,8 +45,6 @@ SuperInventory is a web-based inventory management system designed for small to 
   </tr>
 </table>
 
-> _Note: Replace these with your actual screenshot paths._
-
 ---
 
 ## 🛠️ Project Setup
