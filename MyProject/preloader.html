@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Loading...</title>
+  <link rel="stylesheet" href="styles.css"> 
+  <style>
+    body, html {
+      height: 100%;
+      margin: 0;
+      overflow: hidden; /* Prevent scrollbar while loading */
+    }
+
+    #preloader {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 9999;
+    }
+
+    #preloader video {
+      object-fit: cover;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="preloader">
+    <video autoplay loop muted>
+      <source src="preloader/Logo_preloader.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <script>
+
+    setTimeout(function() {
+      window.location.href = "dashboard.php";
+    }, 4000); 
+  </script>
+</body>
+</html>
